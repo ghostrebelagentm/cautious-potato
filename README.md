@@ -1,2 +1,2 @@
 # cautious-potato
-Auto-closing
+Commit signing
